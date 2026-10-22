@@ -162,9 +162,13 @@ netflix-clone/
 │
 ├── public/
 │
-├── screenshots/
-│
 ├── src/
+│   ├── assets/
+│   │   ├── Intro.png
+│   │   ├── Home.png
+│   │   ├── search.png
+│   │   └── details.png
+│   │
 │   ├── components/
 │   │   ├── Intro.jsx
 │   │   ├── Header.jsx
@@ -184,8 +188,6 @@ netflix-clone/
 ├── vite.config.js
 └── README.md
 ```
-
-> Update the file names to match your project.
 
 ---
 
@@ -238,7 +240,7 @@ Follow these steps to run the project on your computer.
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/DevadasuGudari/netflix-clone.git
 ```
 
 ## 2️⃣ Go to the Project Folder
@@ -412,8 +414,8 @@ I enjoy building practical web applications, learning new technologies, and impr
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-- GitHub: [@your-username](https://github.com/DevadasuGudari)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/gudari-devadasu-81141130a/)
+- GitHub: [@DevadasuGudari](https://github.com/DevadasuGudari)
+- LinkedIn: [Gudari Devadasu](https://www.linkedin.com/in/gudari-devadasu-81141130a/)
 - Email: gudaridevadasu@gmail.com
 
 ---
