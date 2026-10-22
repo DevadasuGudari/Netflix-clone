@@ -301,7 +301,7 @@ http://localhost:5173/
 
 | 🎞️ Intro Animation | 🏠 Home Page |
 |---|---|
-| ![Intro](src/assets/intro.png) | ![Home](src/assets/Home.png) |
+| ![Intro](src/assets/Intro.png) | ![Home](src/assets/Home.png) |
 
 | 🔍 Search Results | 📄 Details Page |
 |---|---|
