@@ -412,7 +412,7 @@ I enjoy building practical web applications, learning new technologies, and impr
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@your-username](https://github.com/DevadasuGudari)
 - LinkedIn: [your-linkedin](https://www.linkedin.com/in/gudari-devadasu-81141130a/)
 - Email: gudaridevadasu@gmail.com
 
