@@ -301,11 +301,11 @@ http://localhost:5173/
 
 | 🎞️ Intro Animation | 🏠 Home Page |
 |---|---|
-| ![Intro](../assets/images/intro.png) | ![Home](../assets/images/Home.png) |
+| ![Intro](./assets/intro.png) | ![Home](./assets/Home.png) |
 
 | 🔍 Search Results | 📄 Details Page |
 |---|---|
-| ![Search](../assets/images/search.png) | ![Details](../assets/images/details.png) |
+| ![Search](./assets/search.png) | ![Details](./assets/details.png) |
 
 ---
 
