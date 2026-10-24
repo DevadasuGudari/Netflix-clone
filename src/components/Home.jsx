@@ -9,7 +9,6 @@ function Home() {
   const [heroes, setHeroes] = useState([])
   const [index, setIndex] = useState(0)
 
-  // get all hero movies using fetch
   useEffect(() => {
     Promise.all(
       heroNames.map((name) => fetch(API + name).then((res) => res.json()))
@@ -18,7 +17,7 @@ function Home() {
     })
   }, [])
 
-  // change the hero every 7 seconds
+ 
   useEffect(() => {
     if (heroes.length < 2) return
     const timer = setInterval(() => {
