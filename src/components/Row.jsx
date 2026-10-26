@@ -46,4 +46,4 @@ function Row({ title, names }) {
   )
 }
 
-export default Row
+export default Row 

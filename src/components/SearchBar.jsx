@@ -6,7 +6,6 @@ function SearchBar() {
   const navigate = useNavigate()
   const location = useLocation()
 
-  // search page kaadu ante, search box clear cheyyi
   useEffect(() => {
     if (location.pathname !== '/search') {
       setText('')
@@ -33,4 +32,4 @@ function SearchBar() {
   )
 }
 
-export default SearchBar
+export default SearchBar 
