@@ -17,10 +17,6 @@ function Home() {
     })
   }, [])
 
-<<<<<<< HEAD
-=======
- 
->>>>>>> 5b78aaf1d3eb31adf1f328a659821b78f9bd5b9f
   useEffect(() => {
     if (heroes.length < 2) return
     const timer = setInterval(() => {
