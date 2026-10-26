@@ -9,7 +9,6 @@ import Shows from './components/Shows'
 import Detail from './components/Detail'
 import Search from './components/Search'
 
-// Intro for 5 seconds, then the Netflix UI
 function App() {
   const [showIntro, setShowIntro] = useState(true)
 
